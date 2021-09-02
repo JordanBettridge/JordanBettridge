@@ -22,6 +22,7 @@
 <img align="left" alt="Javascript" width="80px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="80px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
 <img align="left" alt="NodeJS" width="80px" src="https://i.imgur.com/2hVE2V0.png" />
+<img align="left" alt="CPanel" width="80px" src="https://i.imgur.com/xAFVT1S.png" />
 <img align="left" alt="Ionic" width="80px" src="https://i1.wp.com/ionicacademy.com/wp-content/uploads/2017/06/ionic-logo-portrait.png?ssl=1" />
 <img align="left" alt="Cordova" width="80px" src="https://realwear.com/wp-content/uploads/cordova-264x300.jpg" />
 
