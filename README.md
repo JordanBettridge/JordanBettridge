@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hey there, I'm Jordan! 👋
 
-<!--
-**Jordz2203/Jordz2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer With a Passion for Tech & Business
 
-Here are some ideas to get you started:
+- 🔥 Web Developer (Front & Back End)
+- 📱 Hybrid Mobile App Developer
+- 🌱 Always Learning & Growing
+- ❤️ Fun Fact/s: I'm a fan of ⛷️ Snow Skiing & 🤿 Scuba Diving
+- 🥅 2021 Goals: Contribute more, and expand my skills!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect?
+
+[<img align="left" alt="Jordan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple0icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jordan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple0icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
+
+### Languages & Tools:
+
+[<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />]
+[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />]
+[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />]
+[<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />]
+[<img align="left" alt="NodeJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />]
+[<img align="left" alt="Ionic" width="26px" src="https://i1.wp.com/ionicacademy.com/wp-content/uploads/2017/06/ionic-logo-portrait.png?ssl=1" />]
+[<img align="left" alt="Cordova" width="26px" src="https://realwear.com/wp-content/uploads/cordova-264x300.jpg" />]
+
+<br/>
+<br/>
+
+[linkedin]: https://www.linkedin.com/in/jordan-bettridge-490b96170/
+[instagram]: https://www.instagram.com/jordan.bettridge/?hl=en
