@@ -21,7 +21,7 @@
 <img align="left" alt="CSS" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
 <img align="left" alt="Javascript" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
-<img align="left" alt="NodeJS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />
+<div style="margin-top: 14px"><img align="left" alt="NodeJS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" /></div>
 <img align="left" alt="Ionic" width="60px" src="https://i1.wp.com/ionicacademy.com/wp-content/uploads/2017/06/ionic-logo-portrait.png?ssl=1" />
 <img align="left" alt="Cordova" width="60px" src="https://realwear.com/wp-content/uploads/cordova-264x300.jpg" />
 
