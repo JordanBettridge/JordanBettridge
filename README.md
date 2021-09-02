@@ -10,8 +10,8 @@
 
 ### Connect?
 
-[<img align="left" alt="Jordan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple0icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jordan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple0icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Jordan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simpleicons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jordan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simpleiicons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
