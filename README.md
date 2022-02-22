@@ -25,7 +25,7 @@
 <img align="left" alt="NodeJS" width="80px" src="https://i.imgur.com/2hVE2V0.png" />
 <img align="left" alt="CPanel" width="80px" src="https://i.imgur.com/xAFVT1S.png" />
 <img align="left" alt="Ionic" width="80px" src="https://i1.wp.com/ionicacademy.com/wp-content/uploads/2017/06/ionic-logo-portrait.png?ssl=1" />
-<img align="left" alt="PHP" width="80px" src="https://w7.pngwing.com/pngs/1003/536/png-transparent-php-computer-icons-computer-programming-php-text-trademark-logo.png" />
+<img align="left" alt="PHP" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 
 <br/>
 <br/>
