@@ -2,7 +2,7 @@
 
 ## I'm a Developer With a Passion for Tech & Business
 
-- 🔥 Web Developer (Front & Back End)
+- 🔥 Fullstack Ceveloper
 - 📱 Hybrid Mobile App Developer
 - 🌱 Always Learning & Growing
 - ❤️ Fun Fact/s: I'm a fan of ⛷️ Snow Skiing & 🤿 Scuba Diving
