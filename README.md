@@ -6,7 +6,7 @@
 - 📱 Hybrid Mobile App Developer
 - 🌱 Always Learning & Growing
 - ❤️ Fun Fact/s: I'm a fan of ⛷️ Snow Skiing & 🤿 Scuba Diving
-- 🥅 2022 Goals: Contribute more, and expand my skills!
+- 🥅 2023 Goals: Contribute more, and expand my skills!
 
 ### Connect?
 
