@@ -2,16 +2,9 @@
 
 ## I'm a Developer With a Passion for Tech & Business
 
-- 🔥 Fullstack Developer
-- 📱 Hybrid Mobile App Developer
-- 🌱 Always Learning & Growing
-- ❤️ Fun Fact/s: I'm a fan of ⛷️ Snow Skiing & 🤿 Scuba Diving
-- 🥅 2023 Goals: Contribute more, and expand my skills!
-
 ### Connect?
 
 [<img align="left" alt="Jordan's LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jordan's Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
